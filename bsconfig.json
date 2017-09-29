@@ -1,0 +1,12 @@
+{
+  "name": "ocaml-alcotest",
+  "sources": [
+    "src"
+  ],
+  "bs-dependencies": [
+    "ocaml-astring",
+    "ocaml-cmdliner",
+    "ocaml-fmt",
+    "ocaml-result",
+  ]
+}

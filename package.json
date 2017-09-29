@@ -1,0 +1,11 @@
+{
+  "name": "ocaml-alcotest",
+  "version": "0.8.2",
+  "private": true,
+  "dependencies": {
+    "ocaml-astring": "github:ryanartecona/astring#bsb-native",
+    "ocaml-cmdliner": "github:ryanartecona/cmdliner#bsb-native",
+    "ocaml-fmt": "github:ryanartecona/fmt#bsb-native",
+    "ocaml-result": "github:ryanartecona/result#bsb-native"
+  }
+}
